@@ -25,6 +25,21 @@ Multiple machine learning algorithms were employed to predict the rating of mobi
 ## Results
 The project's results include confusion matrices for decision tree, logistic regression, random forest, and tuned random forest algorithms. The confusion matrices provide insights into the classification performance. The project also recommends the top 15 apps using the recommendation system.
 
+**Decision Tree Confusion Matrix**
+![Decision Tree Confusion Matrix](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/Decision%20Con%20Matrix.png)
+
+**Logistic Regression Confusion Matrix**
+![Logistic Regression Confusion Matrix](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/logistic%20reg%20confusion%20matrix.png)
+
+**Random Forest Confusion Matrix**
+![Random Forest Confusion Matrix](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/random%20forest%20confusion%20matrix%20.png)
+
+**Random Forest Confusion Matrix with Tuning**
+![Random Forest Confusion Matrix with Tuning](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/Random%20Forest%20Con%20Ma%20with%20tuning.png)
+
+**Recommending Top 15 Apps using Recommendation System**
+![Recommending Top 15 Apps using Recommendation System](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/Screenshot%202022-12-16%20at%2010.32.00%20PM.png)
+
 ## References
 - [Google Playstore Apps Dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps)
 - [Creating Dataset for Sentiment Analysis by Scraping Google Play App Reviews](https://towardsdatascience.com/create-dataset-for-sentiment-analysis-by-scraping-google-play-app-reviews-using-python-ceaaa0e41c1)
