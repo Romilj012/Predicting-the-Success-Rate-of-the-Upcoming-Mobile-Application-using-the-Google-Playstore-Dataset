@@ -17,7 +17,7 @@ To understand the dataset's structure, we created a data dictionary. Missing val
 ## Flowchart
 The flowchart below illustrates the project's workflow:
 
-![Flowchart](./path/to/flowchart.png)
+![Flowchart](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/Screenshot%202023-05-25%20at%204.42.02%20PM.png)
 
 ## Algorithm
 Multiple machine learning algorithms were employed to predict the rating of mobile applications, including Logistic Regression and Random Forest Classifier. The algorithms were compared to determine the best-performing one under specific conditions. Additionally, a recommendation system was developed to recommend the top 15 apps from a given genre based on weighted ratings.
