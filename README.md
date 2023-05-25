@@ -37,6 +37,10 @@ The project's results include confusion matrices for decision tree, logistic reg
 **Random Forest Confusion Matrix with Tuning**
 ![Random Forest Confusion Matrix with Tuning](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/Random%20Forest%20Con%20Ma%20with%20tuning.png)
 
+**1. Low** shows apps not so popular 
+**2. Medium** shows apps intermediate popular
+**3. High** shows apps which are extremely popular
+
 **Recommending Top 15 Apps using Recommendation System**
 ![Recommending Top 15 Apps using Recommendation System](https://github.com/Romilj012/Predicting-the-Success-Rate-of-the-Upcoming-Mobile-Application-using-the-Google-Playstore-Dataset/blob/main/Screenshot%202022-12-16%20at%2010.32.00%20PM.png)
 
